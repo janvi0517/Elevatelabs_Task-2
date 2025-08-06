@@ -1,0 +1,30 @@
+# Phishing Email Analysis Report (PayPal Sample)
+
+Email Overview:
+An email impersonating PayPal was analyzed for phishing indicators.
+
+
+Identified Phishing Characteristics:
+
+1. Spoofed Sender Email
+   - Sent from `support@paypal-alert.com`, which is not an official PayPal domain (`@paypal.com` is legitimate).
+
+2. Phishing Link
+   - URL used: `https://paypal.secure-alert.com/login`
+   - Mimics PayPal’s domain but redirects to a phishing site.
+
+3. Urgency and Threat
+   - Warns the user that their account will be "permanently restricted" if not acted upon in 48 hours.
+
+4. Generic Greeting
+   - “Dear Valued Customer” is non-personalized.
+
+5. Suspicious Attachment
+   - HTML file likely includes a credential-stealing form.
+
+6. Grammar
+   - Language and formatting are semi-formal but impersonal, common in phishing emails.
+
+
+Conclusion:
+This is a phishing attempt aimed at scaring the recipient into clicking a malicious link and submitting credentials through a fake form.

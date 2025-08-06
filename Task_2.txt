@@ -1,0 +1,16 @@
+From: PayPal <support@paypal-alert.com>
+Subject: Urgent: Your PayPal account has been limited
+
+Dear Valued Customer,
+
+We've noticed unusual activity in your PayPal account. As a security measure, we've temporarily limited your account.
+
+To restore full access, please confirm your identity by clicking the secure link below:
+
+👉 https://paypal.secure-alert.com/login
+
+If we don’t hear from you within 48 hours, your account may be permanently restricted.
+
+Thank you for choosing PayPal.
+
+Attachment: PayPal_Verification_Form.html
